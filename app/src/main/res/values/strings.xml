@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">MMTS-Status-Live</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello from MVP</string>
     <string name="action_settings">Settings</string>
 
 </resources>
